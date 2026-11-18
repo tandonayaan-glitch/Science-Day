@@ -5,8 +5,6 @@ Ten earthy website layouts for the Science Day project: which mosquito repellent
 ratio) design with 3 scrolling screens: Hero, Methods, Results.
 All numbers are **test data** until real data is added.
 
-Canva folder: https://www.canva.com/folder/FAHbSMv0g_s
-
 | # | Theme | Link |
 |---|-------|------|
 | 1 | Forest, cream & clay (matches current site) | https://www.canva.com/design/DAHbSMm-JeY/edit |
